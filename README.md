@@ -1,4 +1,6 @@
-﻿![logo](Assets/LLamaSharpLogo.png)
+*** 怎么运行，看这个[链接](https://github.com/SciSharp/LLamaSharp/issues/509)，关键是Model要用 .gguf model。
+ 
+ ![logo](Assets/LLamaSharpLogo.png)
 
 [![Discord](https://img.shields.io/discord/1106946823282761851?label=Discord)](https://discord.gg/7wNVU65ZDY)
 [![QQ Group](https://img.shields.io/static/v1?label=QQ&message=加入QQ群&color=brightgreen)](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=sN9VVMwbWjs5L0ATpizKKxOcZdEPMrp8&authKey=RLDw41bLTrEyEgZZi%2FzT4pYk%2BwmEFgFcrhs8ZbkiVY7a4JFckzJefaYNW6Lk4yPX&noverify=0&group_code=985366726)
